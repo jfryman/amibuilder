@@ -1,0 +1,6 @@
+---
+aws_access_key:
+aws_secret_access_key:
+transfer_ami:
+  - ec2-us-east1:
+  - ec2-us-west1:
