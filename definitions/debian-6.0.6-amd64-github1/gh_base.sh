@@ -18,5 +18,3 @@ EOF
 apt-get update
 
 DEBIAN_FRONTEND=noninteractive apt-get install -y lsb-base lsb-release lsb-core libaugeas-ruby augeas-lenses ruby1.8 ruby1.8-dev build-essential rubygems1.8 libopenssl-ruby ntpdate parted
-
-ntpdate -4 pool.ntp.org
